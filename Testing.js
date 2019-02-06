@@ -3,6 +3,6 @@ var b = 250;
 var a = b + 500;
 function myfirstfunction ()
 {
-alert ();
+alert ("tHiS iS a tEsT");
 }
 </script>
